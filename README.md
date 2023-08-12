@@ -32,6 +32,6 @@ Welcome to my Data Analytics project on Happiness Score Analysis! In this projec
 
 ### Conclusion
 
-Through thorough analysis and visualization, this project has provided insights into the factors contributing to happiness scores among different countries and regions. The interactive Tableau presentation allows for a deeper exploration of the findings. Feel free to explore the code, notebooks, and visualizations to gain a comprehensive understanding of the project.
+Through analysis and visualization, this project has provided insights into the factors contributing to happiness scores among different countries and regions. The interactive Tableau presentation allows for a deeper exploration of the findings. Feel free to explore the code, notebooks, and visualizations to gain a comprehensive understanding of the project.
 
 For any questions, suggestions, or feedback, please feel free to reach out. Thank you for taking the time to explore this project!
