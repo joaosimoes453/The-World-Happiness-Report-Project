@@ -6,7 +6,7 @@ Welcome to my Data Analytics project on Happiness Score Analysis! In this projec
 
 ### Key Steps in the Project
 
-1. **Data Collection**: Collected data from the World Happiness Report spanning from 2015 to 2023.
+1. **Data Collection**: Collected data from the [World Happiness Report](https://worldhappiness.report/) spanning from 2015 to 2023.
 
 2. **Data Cleaning and Preprocessing**: Cleaned and prepared the data for analysis by handling missing values and ensuring consistency.
 
